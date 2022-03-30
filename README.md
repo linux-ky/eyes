@@ -24,7 +24,7 @@ $ git clone https://github.com/linux-ky/eyes
 Load the index.html file into your browser.
 * Simply move your cursor around the screen and watch the eyes follow!
 
-![Eyes](images/Pacman_game.png?raw=true "Eyes")
+![Eyes](eyes_game.png?raw=true "Eyes")
 
 ## Link back to Robert Ziegler's Porfolio GitHub Page
 https://linux-ky.github.io/#page-top
